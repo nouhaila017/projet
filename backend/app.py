@@ -17,7 +17,7 @@ def scan():
     result = {
         "url": url,
         "score": 34,
-        "scannedAt": "26/04/2026 14:30",
+        "scannedAt": "0",
         "stats": {
             "critical": 3,
             "high": 7,
